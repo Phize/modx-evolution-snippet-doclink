@@ -45,5 +45,6 @@ div.doclink ul li a:active {
 }
 
 div.doclink p {
+  margin: 0.5em 0 0 !important;
   text-align: right !important;
 }
