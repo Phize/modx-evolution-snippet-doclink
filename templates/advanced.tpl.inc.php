@@ -11,7 +11,7 @@ $this->set('tplNext', '@CODE:<li class="next enabled"><a href="[(base_uri)][+nex
 $this->set('tplLast', '@CODE:<li class="last enabled"><a href="[(base_uri)][+last.uri+]" title="[+last.title+]">Last&nbsp;&raquo;</a></li>');
 $this->set('tplHomeOff', '');
 $this->set('tplParentOff', '');
-$this->set('tplFirstOff', '@CODE:<li class="first disabled">&raquo;&nbsp;First</li>');
+$this->set('tplFirstOff', '@CODE:<li class="first disabled">&laquo;&nbsp;First</li>');
 $this->set('tplPrevOff', '@CODE:<li class="previous disabled">&lt;&nbsp;Previous</li>');
 $this->set('tplNextOff', '@CODE:<li class="next disabled">Next&nbsp;&gt;</li>');
 $this->set('tplLastOff', '@CODE:<li class="last disabled">Last&nbsp;&raquo;</li>');

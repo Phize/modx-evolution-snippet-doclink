@@ -12,7 +12,7 @@ $this->set('tplLast', '');
 $this->set('tplHomeOff', '');
 $this->set('tplParentOff', '');
 $this->set('tplFirstOff', '');
-$this->set('tplPrevOff', '@CODE:<li class="previous disabled">&lt;&nbsp;Previous</li>');
-$this->set('tplNextOff', '@CODE:<li class="next disabled">Next&nbsp;&gt;</li>');
+$this->set('tplPrevOff', '@CODE:<li class="previous disabled">&laquo;&nbsp;Previous</li>');
+$this->set('tplNextOff', '@CODE:<li class="next disabled">Next&nbsp;&raquo;</li>');
 $this->set('tplLastOff', '');
 ?>
