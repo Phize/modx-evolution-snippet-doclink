@@ -16,6 +16,7 @@ div.doclink ul {
 div.doclink ul li {
   margin: 0 2px !important;
   display: inline !important;
+  background: #fff !important;
 }
 
 div.doclink ul li.enabled {
