@@ -15,6 +15,7 @@ Last Update: 2009-06-03
 2.Install
 3.How to use
 4.Parameters
+5.History
 
 
 
@@ -70,3 +71,11 @@ When you would like link elements for navigation:
 
 You could change the presentation/function of navigatoin by specifying parameters.
 See DocLink.en.pdf for further details, please.
+
+
+
+5.History
+--------------
+
+2009-06-03	Fixed a fatal error on PHP4.
+			Fixed typographical error in default templates.
