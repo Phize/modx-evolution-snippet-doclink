@@ -20,7 +20,7 @@ class doclink {
 
     // constructor for PHP4
     function doclink() {
-        $this->__constructor();
+        $this->__construct();
     }
 
     // set parameter
