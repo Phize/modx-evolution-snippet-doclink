@@ -77,5 +77,7 @@ See DocLink.en.pdf for further details, please.
 5.History
 --------------
 
+2009-10-21	Changed doclink.tpl.php to doclink.snippet.tpl.php.
+
 2009-06-03	Fixed a fatal error on PHP4.
 			Fixed typographical error in default templates.
