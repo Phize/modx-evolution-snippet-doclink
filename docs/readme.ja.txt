@@ -3,8 +3,8 @@ Category   : Snippet
 Author     : Phize
 Author URI : http://phize.net
 License    : GNU General Public License(http://www.gnu.org/licenses/gpl.html)
-Version    : 1.0.1
-Last Update: 2009-06-03
+Version    : 1.0.2
+Last Update: 2009-10-21
 
 
 
